@@ -11,7 +11,7 @@ export default {
     return {};
   },
   watch: {},
-  created() {
+  /*created() {
     this.$notify.success({
       title: "授权信息",
       dangerouslyUseHTMLString: true,
@@ -36,7 +36,7 @@ export default {
         type: "success"
       });
     },500);
-  },
+  },*/
   methods: {},
   computed: {}
 };
